@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me anything on my issues page or [telegram](https://telegram.me/BvkDev)
 - :computer: Connect with me on [Linkedin](https://www.linkedin.com/in/behrooz.valikhani)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love new ideas and the sport of soccer!
 
 ### 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BehroozBvk&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
