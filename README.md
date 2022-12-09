@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-behrooz.valikhani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behrooz.valikhani/)](https://www.linkedin.com/in/behrooz.valikhani/)
-[![Instagram Badge](https://img.shields.io/badge/-behrooz.valikhani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/behrooz.valikhani/)](https://instagram.com/behrooz.valikhani)
 [![Telegram Badge](https://img.shields.io/badge/-BvkDev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/BvkDev/)](https://telegram.me/BvkDev/)
 [![Gmail Badge](https://img.shields.io/badge/-behrooz.valikhani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:behrooz.valikhani@gmail.com)](mailto:behrooz.valikhani@gmail.com)
 
